@@ -1,4 +1,4 @@
-Sitemap: https://5fcdf71ac2273.site123.me/sitemap.xml
+Sitemap: https://resul4ik.github.io/nenenin-seyirleri/sitemap.xml
 User-agent: *
 Allow: /
 Disallow: /versions/2/include/
